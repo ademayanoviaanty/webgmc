@@ -816,7 +816,7 @@ section,
 
 @media (max-width: 768px) {
   .hero  {
-    padding-top: 1px; /* Tambahkan jarak dari atas agar tidak menabrak navbar */
+    padding-top: 1px; 
   }
 }
 
